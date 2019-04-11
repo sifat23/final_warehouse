@@ -1,0 +1,259 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+#screen {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.bg-local {
+    background: url('img/bg-6.jpg') no-repeat;
+    background-size: cover;
+}
+
+
+.loader-pro {
+    border-radius: 50%;
+    border-top: 4px solid #176BEF ;
+    width: calc(100% - 0px);
+    height: calc(100% - 0px);
+    animation: rotate 3s linear infinite;
+    -webkit-animation: spin 5s linear infinite; /* Safari */
+}
+
+.loader-plus {
+    border-radius: 50%;
+    border-top: 6px solid #FF3E30 ;
+    width: calc(100% - 0px);
+    height: calc(100% - 0px);
+    animation: rotate 3s linear infinite;
+    -webkit-animation: spin 5s linear infinite; /* Safari */
+}
+
+.loader-noob {
+    border-radius: 50%;
+    border-top: 4px solid #F7B529 ;
+    width: calc(100% - 0px);
+    height: calc(100% - 0px);
+    animation: rotate 3s linear infinite;
+    -webkit-animation: spin 5s linear infinite; /* Safari */
+}
+
+.loader-pop {
+    border-radius: 50%;
+    border-top: 4px solid #179C52 ;
+    width: calc(100% - 0px);
+    height: calc(100% - 0px);
+    animation: rotate 3s linear infinite;
+    -webkit-animation: spin 5s linear infinite; /* Safari */
+}
+
+.bg {
+    background: url('img/Retina.png') no-repeat;
+    background-size: 100%;
+}
+
+
+.box_entry {
+    padding: 20px;
+}
+
+.center-screen {
+    padding-top: 70px;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0rem !important;
+}
+
+footer {
+    position: relative;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    margin-top: 105px;
+    width: 100%;
+}
+
+.logtop {
+    padding-top: 80px !important;
+    padding-bottom: 80px !important;
+    padding-left: 50px !important;
+}
+
+
+table {
+    width: 100%;
+}
+
+thead, tbody, tr, td, th {
+    display: block;
+}
+
+tr:after {
+    content: ' ';
+    display: block;
+    visibility: hidden;
+    clear: both;
+}
+
+thead th {
+    height: 50px;
+}
+
+tbody {
+    height: 120px;
+    overflow-y: auto;
+}
+
+tbody td, thead th {
+    width: 140px;
+    float: left;
+}
+
+.outter {
+    height: 20px;
+    width: 320px;
+    border: solid 1px #000;
+}
+
+.inner {
+    height: 19px;
+    border-right: solid 1px #000;
+    background-color: #6C3483;
+}
+
+.vertical{
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    border: 2px solid #CC0000;
+    height: 20rem;
+    padding-top: 4rem;
+}
+
+
+.r-circle {
+    border-bottom-right-radius: 20px;
+}
+
+.r-circle:hover{
+    background-color: #CB4335;
+    color: #ffffff;
+    font-size: 1.3em;
+    border-color: #CB4335;
+}
+
+.l-circle {
+    border-bottom-left-radius: 20px;
+}
+
+.l-circle:hover{
+    background-color: #1266f1;
+    color: #ffffff;
+    font-size: 1.3em;
+    border-color: #1266f1;
+}
+
+
+
+
+
+/*pricing section worinkig css*/
+section.pricing {
+    background: #007bff;
+    background: linear-gradient(to right, #0062E6, #33AEFF);
+}
+
+.pricing .card {
+    border: none;
+    border-radius: 1rem;
+    transition: all 0.2s;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.pricing hr {
+    margin: 1.5rem 0;
+}
+
+.pricing .card-title {
+    margin: 0.5rem 0;
+    font-size: 0.9rem;
+    letter-spacing: .1rem;
+    font-weight: bold;
+}
+
+.pricing .card-price {
+    font-size: 3rem;
+    margin: 0;
+}
+
+.pricing .card-price .period {
+    font-size: 0.8rem;
+}
+
+.pricing ul li {
+    margin-bottom: 1rem;
+}
+
+.pricing .text-muted {
+    opacity: 0.7;
+}
+
+.pricing .btn {
+    font-size: 80%;
+    border-radius: 5rem;
+    letter-spacing: .1rem;
+    font-weight: bold;
+    padding: 1rem;
+    opacity: 0.7;
+    transition: all 0.2s;
+}
+/*priceing section working end*/
+
+/* Hover Effects on Card */
+
+@media (min-width: 992px) {
+    .pricing .card:hover {
+        margin-top: -.25rem;
+        margin-bottom: .25rem;
+        box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
+    }
+    .pricing .card:hover .btn {
+        opacity: 1;
+    }
+}
+
+
+
+/*Responsive area*/
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #3CA164;
+    }
+
+    .view {
+        overflow: visible;
+        margin-top: -56px;
+    }
+}
+.navbar {
+    z-index: 1;
+}
+.navbar {
+    background-color: transparent;
+}
+.top-nav-collapse {
+    background-color: #3CA164;
+}
+
+html,
+body,
+header,
+.view {
+    height: 100%;
+}

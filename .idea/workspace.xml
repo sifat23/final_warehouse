@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c118009-7f39-4e1f-b0d8-55a8061fd62f" name="Default Changelist" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-manager.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin-manager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_payment.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_payment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code.php" beforeDir="false" afterPath="$PROJECT_DIR$/code.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/company-storage.php" beforeDir="false" afterPath="$PROJECT_DIR$/company-storage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/company_request_delivery.php" beforeDir="false" afterPath="$PROJECT_DIR$/company_request_delivery.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-request.php" beforeDir="false" afterPath="$PROJECT_DIR$/customer-request.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/lightbox/default-skin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/lightbox/default-skin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/lightbox/preloader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/my.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/overlays/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/overlays/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/overlays/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/overlays/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/overlays/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/overlays/06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/overlays/07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/overlays/08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/overlays/09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/svg/arrow_left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/svg/arrow_right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/team_1 (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/team_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/team_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/team_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invoice_for_deliverd_product.php" beforeDir="false" afterPath="$PROJECT_DIR$/invoice_for_deliverd_product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/load_data.php" beforeDir="false" afterPath="$PROJECT_DIR$/load_data.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m-delivery-storage-accept.php" beforeDir="false" afterPath="$PROJECT_DIR$/m-delivery-storage-accept.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m-storage-accept.php" beforeDir="false" afterPath="$PROJECT_DIR$/m-storage-accept.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment.php" beforeDir="false" afterPath="$PROJECT_DIR$/payment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signin.php" beforeDir="false" afterPath="$PROJECT_DIR$/signin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warehouse_edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/warehouse_edit.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/tcpdf/composer.json</pharConfigPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="22048559">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.44" value="2" />
+          <entry key="project.open.time.46" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="4" />
+          <entry key="js" value="1" />
+          <entry key="php" value="65" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="4" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PHP" value="65" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="279" />
+          <entry key="php" value="14494" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="279" />
+          <entry key="HTML" value="56" />
+          <entry key="PHP" value="14437" />
+          <entry key="SQL" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-887076708">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="36" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="9" />
+          <entry key="project.open.time.11" value="7" />
+          <entry key="project.open.time.12" value="4" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="6" />
+          <entry key="project.opened" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="91" />
+          <entry key="html" value="22" />
+          <entry key="jpg" value="4" />
+          <entry key="js" value="7" />
+          <entry key="php" value="627" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="91" />
+          <entry key="HTML" value="22" />
+          <entry key="Image" value="4" />
+          <entry key="JavaScript" value="7" />
+          <entry key="PHP" value="627" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="7483" />
+          <entry key="html" value="5501" />
+          <entry key="js" value="425" />
+          <entry key="php" value="75122" />
+          <entry key="txt" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="7483" />
+          <entry key="HTML" value="6565" />
+          <entry key="JavaScript" value="425" />
+          <entry key="PHP" value="73962" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="SQL" value="96" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://E:/work/new work/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="361" column="63" selection-start-line="361" selection-start-column="63" selection-end-line="361" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/work/new work/css/fslightbox.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1224">
+              <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/work/new work/js/custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1292">
+              <caret line="76" column="56" selection-start-line="76" selection-start-column="56" selection-end-line="76" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/work/new work/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2227">
+              <caret line="131" column="33" selection-start-line="131" selection-start-column="33" selection-end-line="131" selection-end-column="33" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#1;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>to</find>
+      <find>company</find>
+      <find>u_name</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="E:/work/new work/custom.js" />
+        <option value="$PROJECT_DIR$/../neel/about.php" />
+        <option value="$PROJECT_DIR$/../neel/admin_edit.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/code.php" />
+        <option value="$PROJECT_DIR$/m-delivery.php" />
+        <option value="$PROJECT_DIR$/company_request_delivery.php" />
+        <option value="$PROJECT_DIR$/company-storage.php" />
+        <option value="$PROJECT_DIR$/load_data.php" />
+        <option value="$PROJECT_DIR$/m-storage-accept.php" />
+        <option value="$PROJECT_DIR$/invoice_for_deliverd_product.php" />
+        <option value="$PROJECT_DIR$/warehouse_edit.php" />
+        <option value="$PROJECT_DIR$/admin_payment.php" />
+        <option value="$PROJECT_DIR$/admin-manager.php" />
+        <option value="$PROJECT_DIR$/admin.php" />
+        <option value="$PROJECT_DIR$/about.php" />
+        <option value="$PROJECT_DIR$/customer-request.php" />
+        <option value="$PROJECT_DIR$/home_header.php" />
+        <option value="$PROJECT_DIR$/custom.css" />
+        <option value="$PROJECT_DIR$/css.css" />
+        <option value="$PROJECT_DIR$/signin.php" />
+        <option value="$PROJECT_DIR$/m-delivery-storage-accept.php" />
+        <option value="$PROJECT_DIR$/payment.php" />
+        <option value="$PROJECT_DIR$/../neel/admin_home.php" />
+        <option value="$PROJECT_DIR$/../neel/edit_load_data.php" />
+        <option value="$PROJECT_DIR$/../neel/more_uni_info.php" />
+        <option value="$PROJECT_DIR$/../neel/index.php" />
+        <option value="$PROJECT_DIR$/../neel/style.css" />
+        <option value="$PROJECT_DIR$/../neel/admin_style.css" />
+        <option value="$PROJECT_DIR$/../neel/admin_rank_edit.php" />
+        <option value="$PROJECT_DIR$/../neel/input_course_program.php" />
+        <option value="$PROJECT_DIR$/../neel/more_uni_edit_field.php" />
+        <option value="$PROJECT_DIR$/../neel/course edit.php" />
+        <option value="$PROJECT_DIR$/../neel/data_file.php" />
+        <option value="$PROJECT_DIR$/../neel/course_edit.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="E:/work/new work/test.html" />
+        <option value="$PROJECT_DIR$/../neel/code.php" />
+        <option value="$PROJECT_DIR$/../neel/login_admin.php" />
+        <option value="$PROJECT_DIR$/../neel/admin.php" />
+        <option value="$PROJECT_DIR$/../neel/admin_header.php" />
+        <option value="$PROJECT_DIR$/../neel/header.php" />
+        <option value="$PROJECT_DIR$/../neel/search_result.php" />
+        <option value="$PROJECT_DIR$/../neel/search_queue.php" />
+        <option value="$PROJECT_DIR$/../neel/data.php" />
+        <option value="E:/work/new work/home.html" />
+        <option value="E:/work/new work/js/custom.js" />
+        <option value="E:/work/new work/css/fslightbox.css" />
+        <option value="E:/work/new work/index.html" />
+        <option value="E:/work/new work/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new work" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new work" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="in&#9;FILE&#9;file://C:/xampp/htdocs/test/index.php" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\neel" />
+      <recent name="C:\xampp\htdocs\project" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\project" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c118009-7f39-4e1f-b0d8-55a8061fd62f" name="Default Changelist" comment="" />
+      <created>1545378039875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545378039875</updated>
+      <workItem from="1545378041767" duration="5655000" />
+      <workItem from="1545451482772" duration="5844000" />
+      <workItem from="1545573597815" duration="13728000" />
+      <workItem from="1545895214926" duration="46046000" />
+      <workItem from="1546333827496" duration="30380000" />
+      <workItem from="1547128902487" duration="3287000" />
+      <workItem from="1547239304058" duration="9187000" />
+      <workItem from="1547649016873" duration="3000000" />
+      <workItem from="1547703665577" duration="23800000" />
+      <workItem from="1547965279497" duration="3332000" />
+      <workItem from="1548514493568" duration="599000" />
+      <workItem from="1548515686465" duration="10634000" />
+      <workItem from="1548822637651" duration="13657000" />
+      <workItem from="1548917979197" duration="1146000" />
+      <workItem from="1549121338398" duration="30881000" />
+      <workItem from="1549436434217" duration="5719000" />
+      <workItem from="1549462892906" duration="26479000" />
+      <workItem from="1549622168469" duration="879000" />
+      <workItem from="1549654637581" duration="76000" />
+      <workItem from="1549751097192" duration="11990000" />
+      <workItem from="1549796307992" duration="8272000" />
+      <workItem from="1549818110279" duration="5109000" />
+      <workItem from="1549828837240" duration="2230000" />
+      <workItem from="1549966675425" duration="3738000" />
+      <workItem from="1550197416503" duration="22176000" />
+      <workItem from="1550328224258" duration="39592000" />
+      <workItem from="1550476214048" duration="3619000" />
+      <workItem from="1550578213767" duration="1742000" />
+      <workItem from="1550584584189" duration="39283000" />
+      <workItem from="1550856655068" duration="6000" />
+      <workItem from="1550877813584" duration="1942000" />
+      <workItem from="1550956925688" duration="65000" />
+      <workItem from="1551035119008" duration="20010000" />
+      <workItem from="1551159910359" duration="14456000" />
+      <workItem from="1551267900866" duration="94806000" />
+      <workItem from="1552229218461" duration="15072000" />
+      <workItem from="1552286762765" duration="54017000" />
+      <workItem from="1552500676520" duration="74526000" />
+      <workItem from="1552927732386" duration="81518000" />
+      <workItem from="1553429189175" duration="26484000" />
+      <workItem from="1553468021282" duration="478000" />
+      <workItem from="1553495237808" duration="2919000" />
+      <workItem from="1553527327195" duration="25481000" />
+      <workItem from="1553694176750" duration="2551000" />
+      <workItem from="1553704343629" duration="1277000" />
+      <workItem from="1553765229862" duration="5816000" />
+      <workItem from="1553788319817" duration="9541000" />
+      <workItem from="1553957391382" duration="14673000" />
+      <workItem from="1554057251543" duration="14421000" />
+      <workItem from="1554141700350" duration="1893000" />
+      <workItem from="1554204838101" duration="54730000" />
+      <workItem from="1554309773275" duration="1648000" />
+      <workItem from="1554319473968" duration="309000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1550207017977</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550207017977</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="890719000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18003026" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998326" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" weight="0.32998326" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.32663316" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/warehouse_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="52" column="14" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="52" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="39" column="76" selection-start-line="39" selection-start-column="76" selection-end-line="39" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="41" column="68" selection-start-line="41" selection-start-column="68" selection-end-line="41" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circle.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pass.s.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4063">
+          <caret line="239" column="113" selection-start-line="239" selection-start-column="78" selection-end-line="239" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="117" column="9" selection-start-line="77" selection-end-line="117" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m-delivery-storage-accept.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2992">
+          <caret line="176" column="121" selection-start-line="176" selection-start-column="86" selection-end-line="176" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="306" column="30" selection-start-line="306" selection-start-column="30" selection-end-line="306" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m-header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="114" column="18" selection-start-line="85" selection-end-line="119" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../neel/course_input.php" />
+    <entry file="file://$PROJECT_DIR$/../neel/edit_load_data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="179" column="52" selection-start-line="179" selection-start-column="52" selection-end-line="179" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../neel/more_uni_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-233">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../neel/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/company-storage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../neel/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../neel/admin_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="100" selection-start-line="51" selection-start-column="100" selection-end-line="51" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../neel/input_course_program.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../neel/more_uni_edit_field.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../neel/admin_rank_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="62" lean-forward="true" selection-start-line="47" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/row-entry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/more_data.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/more_load.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/load_data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3919">
+          <caret line="12" column="80" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1216">
+          <caret line="201" column="45" lean-forward="true" selection-start-line="201" selection-start-column="45" selection-end-line="201" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3077">
+          <caret line="181" column="45" selection-start-line="181" selection-start-column="45" selection-end-line="181" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m-storage-accept.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3519">
+          <caret line="207" column="91" selection-start-line="207" selection-start-column="32" selection-end-line="207" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../neel/course_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../neel/data_file.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-624">
+          <caret line="60" column="71" selection-start-line="60" selection-start-column="62" selection-end-line="60" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../neel/code.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="301" column="35" lean-forward="true" selection-start-line="301" selection-start-column="35" selection-end-line="301" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../neel/login_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../neel/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../neel/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../neel/admin_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1236">
+          <caret line="5" column="6" lean-forward="true" selection-start-line="3" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../neel/search_result.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1385">
+          <caret line="250" column="18" lean-forward="true" selection-start-line="250" selection-start-column="18" selection-end-line="250" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../neel/search_queue.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="136" column="37" lean-forward="true" selection-start-line="136" selection-start-column="37" selection-end-line="136" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../neel/data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="58" column="2" lean-forward="true" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/work/new work/home.html" />
+    <entry file="file://E:/work/new work/test.html" />
+    <entry file="file://E:/work/new work/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="361" column="63" selection-start-line="361" selection-start-column="63" selection-end-line="361" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/work/new work/css/fslightbox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/work/new work/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" column="56" selection-start-line="76" selection-start-column="56" selection-end-line="76" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/work/new work/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2227">
+          <caret line="131" column="33" selection-start-line="131" selection-start-column="33" selection-end-line="131" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,126 @@
+.log-bg {
+    background-image: url('img/background2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.log-button {
+    border: 2px solid red;
+    color: red !important;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.log-button:hover {
+    background-color: red;
+    color: white !important;
+}
+
+.local-button {
+    border: 2px solid #4a148c;
+    background: white;
+}
+
+/*tesing table*/
+table {
+    width: 100%;
+}
+
+thead, tbody, tr, td, th {
+    display: block;
+}
+
+tr:after {
+    content: ' ';
+    display: block;
+    visibility: hidden;
+    clear: both;
+}
+
+thead th {
+    height: 50px;
+}
+
+tbody {
+    height: 420px;
+    overflow-y: auto;
+}
+
+tbody td, thead th {
+    width: 140px;
+    float: left;
+}
+
+.outter {
+    height: 20px;
+    width: 320px;
+    border: solid 1px #000;
+}
+
+.inner {
+    height: 19px;
+    border-right: solid 1px #000;
+    background-color: #6C3483;
+}
+
+.vertical{
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    border: 2px solid #CC0000;
+    height: 20rem;
+    padding-top: 4rem;
+}
+/*table end*/
+
+/*fake load css*/
+#circle {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100px;
+    height: 100px;
+}
+
+.loader-pro {
+    border-radius: 50%;
+    border-top: 4px solid #176BEF ;
+    width: calc(100% - 0px);
+    height: calc(100% - 0px);
+    animation: rotate 3s linear infinite;
+    -webkit-animation: spin 5s linear infinite; /* Safari */
+}
+
+.loader-plus {
+    border-radius: 50%;
+    border-top: 6px solid #FF3E30 ;
+    width: calc(100% - 0px);
+    height: calc(100% - 0px);
+    animation: rotate 3s linear infinite;
+    -webkit-animation: spin 5s linear infinite; /* Safari */
+}
+
+.loader-noob {
+    border-radius: 50%;
+    border-top: 4px solid #F7B529 ;
+    width: calc(100% - 0px);
+    height: calc(100% - 0px);
+    animation: rotate 3s linear infinite;
+    -webkit-animation: spin 5s linear infinite; /* Safari */
+}
+
+.loader-pop {
+    border-radius: 50%;
+    border-top: 4px solid #179C52 ;
+    width: calc(100% - 0px);
+    height: calc(100% - 0px);
+    animation: rotate 3s linear infinite;
+    -webkit-animation: spin 5s linear infinite; /* Safari */
+}
+
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
